@@ -1,0 +1,4 @@
+pillow==10.2.0
+PyMuPDF==1.23.25
+PyMuPDFb==1.23.22
+tk==0.1.0
